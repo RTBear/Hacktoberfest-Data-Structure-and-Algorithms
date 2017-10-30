@@ -2,6 +2,7 @@
 
 This folder contains examples of the bubble sort algorithm in the following programming languages:
 
+* Assembly (MIPS)
 * bash
 * C
 * C++
